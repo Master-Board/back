@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "http": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "mysql2": "^2.3.3",
+    "nodejs": "^0.0.0",
+    "nodemon": "^2.0.19",
+    "socketio": "^1.0.0"
+  }
+}
